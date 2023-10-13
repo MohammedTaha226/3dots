@@ -1,0 +1,284 @@
+/*Big Size Screens*/
+@media (max-width: 1200px)
+{
+	.sliderPage .owlSlider .itemSlider .content
+	{
+		padding-top:60px
+	}
+}
+
+/* small Screens & tablets & Smart phone */
+@media (max-width: 991px) 
+{
+	.heightHeight
+	{
+		height:98px
+	}
+	
+	.header .logo
+	{
+		margin-right:-50px;
+	}
+	
+	.header2
+	{
+		padding:15px 0
+	}
+	
+	.header2 .logo,
+	.header2.HeaderFixed .logo
+	{
+		margin-right:0;
+		margin-top:0;
+	}
+	
+	.header2 .loginBtn,
+	.header2.HeaderFixed .loginBtn
+	{
+		margin-top:12px;
+	}
+	
+	.header2 .openSubMenu,
+	.header2.HeaderFixed .openSubMenu
+	{
+		margin-top:33px;
+	}
+	
+	.dotsTop
+	{
+		height:auto;
+		padding-top:150px;
+		overflow:hidden
+	}
+	
+	.header .open-menu
+	{
+		display:block
+	}
+	
+	.header .headerMenu
+	{
+		display:none
+	}
+	
+	.header2 .loginBtn
+	{
+		margin-right:25px;
+	}
+	
+	.header2 .subDetails .listSubMenu
+	{
+		display:none!important
+	}
+	
+	.header2 .openSubMenu.open-menu
+	{
+		display:block
+	}
+	
+	.header2 .subDetails .openSubMenu
+	{
+		display:none;
+	}
+	
+	.slider .float-right,
+	.slider .float-left
+	{
+		float:none;
+		width:100%
+	}
+	
+	.sliderLab
+	{
+		padding:25px
+	}
+	
+	.sliderLab .owl-carousel .owl-nav button.owl-next
+	{
+		right:0
+	}
+	
+	.sliderLab .owl-carousel .owl-nav button.owl-prev
+	{
+		left:0
+	}
+	
+
+	.selectPlan,
+	.circlesSection
+	{
+		overflow:hidden
+	}
+	
+	.detailsSection .content .details .desc
+	{
+		margin-bottom:30px
+	}
+	
+
+	.header.HeaderFixed .open-menu
+	{
+		margin-top:30px
+	}
+	
+	.contactUs .contactForm .infoDetails
+	{
+		padding:55px 15px;
+	}
+	
+	.breadCrumb
+	{
+		padding-bottom:385px
+	}
+	
+	.login .formLogin
+	{
+		margin:0 auto
+	}
+	
+	.sliderPage
+	{
+		padding:70px 0
+	}
+	
+	.sliderPage .owlSlider .itemSlider .content
+	{
+		padding-top:50px
+	}
+	
+	.sliderPage .owlSlider .itemSlider .content .title
+	{
+		font-size:23px;
+		line-height:45px
+	}
+	
+	.sliderPage .owlSlider .itemSlider .content .btns .btnSlider
+	{
+		width:150px
+	}
+	
+	
+}
+
+/* Small Screens */
+@media (min-width: 768px) and (max-width: 991px) 
+{
+	
+	
+}
+
+/* Mobile & Tablets */
+@media (max-width: 767px) 
+{
+	.dotsTop .bgMove
+	{
+		display:none;
+	}
+	
+	.slider .slider-details .title
+	{
+		font-size:30px;
+		line-height:40px;
+		margin-bottom:30px
+	}
+	.slider .slider-details .effect-btn
+	{
+		width: 110px;
+    	height: 40px;
+    	line-height: 35px;
+    	font-size:16px;
+	}
+	
+	.detailsSection
+	{
+		padding-bottom:0
+	}
+	
+	.detailsSection .listDetails
+	{
+		padding:30px
+	}
+	
+	.detailsSection .content .details .title
+	{
+		font-size:25px;
+		line-height:35px;
+	}
+	
+	.selectPlan .planHead .titleSection,
+	.circlesSection .content .title,
+	.orders .title
+	{
+		font-size:30px
+	}
+	
+	.orders .bgRight,
+	.orders .bgLeft
+	{
+		max-width:50%
+	}
+	
+	.login
+	{
+		padding-left:40px;
+		padding-right:40px
+	}
+	
+	.login .listFooter li, .login .listFooter li a
+	{
+		font-size:15px;
+	}
+	
+	.sliderPage .owlSlider .itemSlider
+	{
+		text-align:center
+	}
+	
+	.sliderPage .owlSlider .itemSlider img
+	{
+		float:none;
+		margin:0 auto;
+		width:auto;
+		max-width:100%
+	}
+	.sliderPage .owlSlider .itemSlider .content
+	{
+		float:none;
+		width:100%;
+		padding-top:30px
+	}
+	
+	.sliderPage .owlSlider .itemSlider .content .btns .btnSlider
+	{
+		float:none;
+		display:inline-block
+	}
+}
+
+/* Tablets */
+@media (min-width:480px) and (max-width: 767px)
+{
+
+}
+
+/* Mobile */
+@media (max-width: 479px) 
+{
+	.login ,
+	.login .formLogin .form
+	{
+		padding-left:20px;
+		padding-right:20px
+	}
+	
+	.login .listFooter li, .login .listFooter li a
+	{
+		font-size:13px;
+	}
+	
+	.login .listFooter li, .login .listFooter li:last-of-type
+	{
+		margin-top:10px
+	}
+	
+}

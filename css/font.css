@@ -1,0 +1,28 @@
+/*
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =  
+=     00   00 00 00   00 00 00   00 00 00   00 00 00   00 00    =
+=     00   00    00        00    00    00   00    00   00       =
+=     00   00    00      00      00    00   00    00   00       =
+=     00   00    00    00        00    00   00    00   00       =
+=  00 00   00 00 00   00 00 00   00 00 00   00 00 00   00       =
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+*/
+@font-face {
+    font-family: "BontRegular";
+    src: url('../fonts/Bont-Regular.eot');
+    src: url('../fonts/Bont-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Bont-Regular.svg#DroidKufi Regular') format('svg'),
+    url('../fonts/Bont-Regular.woff') format('woff'),
+    url('../fonts/Bont-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: "BontBold";
+    src: url('../fonts/Bont-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
